@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shehabadel/Redis-Multiple-Instances#readme",
   "dependencies": {
-    "redis": "^4.0.4"
+    "redis": "^3.0.2"
   }
 }
